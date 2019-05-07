@@ -1,0 +1,8 @@
+ros-kinetic-ksql-airport (0.0.1-1xenial) xenial; urgency=high
+
+  * adding san carlos airport and vicinity, as ksql
+  * Contributors: Tully Foote
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Tue, 07 May 2019 07:00:00 -0000
+
+
