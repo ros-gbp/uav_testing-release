@@ -1,0 +1,8 @@
+ros-melodic-mcmillan-airfield (0.0.1-1stretch) stretch; urgency=high
+
+  * Adding in mcmillan airfield launch with terrain and texture
+  * Contributors: Tully Foote
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Tue, 07 May 2019 07:00:00 -0000
+
+
